@@ -148,12 +148,11 @@ if __name__ == '__main__':
     args = parse_args()
     convert(args)
 
+'''
+python create_tfrecord.py --image-root /Users/kehwaweng/Documents/imageCrawler/Image-Downloader \
+                          --annotation-path /Users/kehwaweng/Documents/imageCrawler/Image-Downloader/few_sample/few_sample_dataset.json \
+                          --output ./custom_dataset.tfrecord
 
-
-
-
-
-
-
+'''
 
 

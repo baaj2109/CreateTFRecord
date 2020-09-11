@@ -1,0 +1,1 @@
+python create_coco_tf_record.py --logtostderr --train_image_dir=/Volumes/IPEVO_X0244/few_sample/ --train_annotations_file=/Volumes/IPEVO_X0244/few_sample/few_sample_dataset.json --output_dir=/Users/kehwaweng/Documents/ObjectDetection/create_custom_dataset

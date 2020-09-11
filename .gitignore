@@ -1,0 +1,7 @@
+frozen_model*
+save_model*
+ssd_mobilenet_v3_large_coco_2020_01_14/
+coco_train.record*
+*.pb
+*.mlmodel
+

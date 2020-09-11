@@ -1,0 +1,792 @@
+item {
+  id: 1
+  name: 'toilet paper'
+}
+item {
+  id: 2
+  name: 'helmet'
+}
+item {
+  id: 3
+  name: 'cat'
+}
+item {
+  id: 4
+  name: 'headphone'
+}
+item {
+  id: 5
+  name: 'fire hydrant'
+}
+item {
+  id: 6
+  name: 'tree'
+}
+item {
+  id: 7
+  name: 'window'
+}
+item {
+  id: 8
+  name: 'pen'
+}
+item {
+  id: 9
+  name: 'microwave'
+}
+item {
+  id: 10
+  name: 'mountain'
+}
+item {
+  id: 11
+  name: 'paintbrush'
+}
+item {
+  id: 12
+  name: 'butterfly'
+}
+item {
+  id: 13
+  name: 'flower'
+}
+item {
+  id: 14
+  name: 'sunglasses'
+}
+item {
+  id: 15
+  name: 'lamp'
+}
+item {
+  id: 16
+  name: 'toaster'
+}
+item {
+  id: 17
+  name: 'fork'
+}
+item {
+  id: 18
+  name: 'wardrobe'
+}
+item {
+  id: 19
+  name: 'shirts'
+}
+item {
+  id: 20
+  name: 'basket'
+}
+item {
+  id: 21
+  name: 'carpet'
+}
+item {
+  id: 22
+  name: 'fireplace'
+}
+item {
+  id: 23
+  name: 'potted plant'
+}
+item {
+  id: 24
+  name: 'pillow'
+}
+item {
+  id: 25
+  name: 'picture frame'
+}
+item {
+  id: 26
+  name: 'bench'
+}
+item {
+  id: 27
+  name: 'piano'
+}
+item {
+  id: 28
+  name: 'musical keyboard'
+}
+item {
+  id: 29
+  name: 'stool'
+}
+item {
+  id: 30
+  name: 'chandelier'
+}
+item {
+  id: 31
+  name: 'cupboard'
+}
+item {
+  id: 32
+  name: 'door'
+}
+item {
+  id: 33
+  name: 'flag'
+}
+item {
+  id: 34
+  name: 'book'
+}
+item {
+  id: 35
+  name: 'guitar'
+}
+item {
+  id: 36
+  name: 'couch'
+}
+item {
+  id: 37
+  name: 'table'
+}
+item {
+  id: 38
+  name: 'poster'
+}
+item {
+  id: 39
+  name: 'bed'
+}
+item {
+  id: 40
+  name: 'mattress'
+}
+item {
+  id: 41
+  name: 'bottle'
+}
+item {
+  id: 42
+  name: 'clock'
+}
+item {
+  id: 43
+  name: 'sculpture'
+}
+item {
+  id: 44
+  name: 'blanket'
+}
+item {
+  id: 45
+  name: 'car'
+}
+item {
+  id: 46
+  name: 'balloon'
+}
+item {
+  id: 47
+  name: 'shoes'
+}
+item {
+  id: 48
+  name: 'bulb'
+}
+item {
+  id: 49
+  name: 'ocean'
+}
+item {
+  id: 50
+  name: 'ship'
+}
+item {
+  id: 51
+  name: 'fire extinguisher'
+}
+item {
+  id: 52
+  name: 'cradle'
+}
+item {
+  id: 53
+  name: 'power socket'
+}
+item {
+  id: 54
+  name: 'ashtray'
+}
+item {
+  id: 55
+  name: 'violin'
+}
+item {
+  id: 56
+  name: 'box'
+}
+item {
+  id: 57
+  name: 'cup'
+}
+item {
+  id: 58
+  name: 'calendar'
+}
+item {
+  id: 59
+  name: 'dog'
+}
+item {
+  id: 60
+  name: 'paper clip'
+}
+item {
+  id: 61
+  name: 'racket'
+}
+item {
+  id: 62
+  name: 'projector'
+}
+item {
+  id: 63
+  name: 'microphone'
+}
+item {
+  id: 64
+  name: 'calculator'
+}
+item {
+  id: 65
+  name: 'rocking chair'
+}
+item {
+  id: 66
+  name: 'desk'
+}
+item {
+  id: 67
+  name: 'laptop'
+}
+item {
+  id: 68
+  name: 'aircraft'
+}
+item {
+  id: 69
+  name: 'eraser'
+}
+item {
+  id: 70
+  name: 'coffeepot'
+}
+item {
+  id: 71
+  name: 'teapot'
+}
+item {
+  id: 72
+  name: 'eye glasses'
+}
+item {
+  id: 73
+  name: 'vacuum cleaner'
+}
+item {
+  id: 74
+  name: 'pilow'
+}
+item {
+  id: 75
+  name: 'flower pot'
+}
+item {
+  id: 76
+  name: 'globe'
+}
+item {
+  id: 77
+  name: 'chair'
+}
+item {
+  id: 78
+  name: 'curtain'
+}
+item {
+  id: 79
+  name: 'vase'
+}
+item {
+  id: 80
+  name: 'speaker'
+}
+item {
+  id: 81
+  name: 'gas stove'
+}
+item {
+  id: 82
+  name: 'candle'
+}
+item {
+  id: 83
+  name: 'candlestick'
+}
+item {
+  id: 84
+  name: 'whiteboard'
+}
+item {
+  id: 85
+  name: 'mailbox'
+}
+item {
+  id: 86
+  name: 'stair'
+}
+item {
+  id: 87
+  name: 'sconce'
+}
+item {
+  id: 88
+  name: 'camera'
+}
+item {
+  id: 89
+  name: 'chickens'
+}
+item {
+  id: 90
+  name: 'trash can'
+}
+item {
+  id: 91
+  name: 'mechanical fan'
+}
+item {
+  id: 92
+  name: 'tissue'
+}
+item {
+  id: 93
+  name: 'sheep'
+}
+item {
+  id: 94
+  name: 'hair dryer'
+}
+item {
+  id: 95
+  name: 'comb'
+}
+item {
+  id: 96
+  name: 'duck'
+}
+item {
+  id: 97
+  name: 'folder'
+}
+item {
+  id: 98
+  name: 'keyboard'
+}
+item {
+  id: 99
+  name: 'telephone'
+}
+item {
+  id: 100
+  name: 'jar'
+}
+item {
+  id: 101
+  name: 'paint pot'
+}
+item {
+  id: 102
+  name: 'coffee maker'
+}
+item {
+  id: 103
+  name: 'spoon'
+}
+item {
+  id: 104
+  name: 'tablet computer'
+}
+item {
+  id: 105
+  name: 'stapler'
+}
+item {
+  id: 106
+  name: 'oven'
+}
+item {
+  id: 107
+  name: 'bowl'
+}
+item {
+  id: 108
+  name: 'glass'
+}
+item {
+  id: 109
+  name: 'knife'
+}
+item {
+  id: 110
+  name: 'plate'
+}
+item {
+  id: 111
+  name: 'placemat'
+}
+item {
+  id: 112
+  name: 'sink'
+}
+item {
+  id: 113
+  name: 'fruits'
+}
+item {
+  id: 114
+  name: 'apple'
+}
+item {
+  id: 115
+  name: 'napkin'
+}
+item {
+  id: 116
+  name: 'dishwasher'
+}
+item {
+  id: 117
+  name: 'surfboard'
+}
+item {
+  id: 118
+  name: 'ladder'
+}
+item {
+  id: 119
+  name: 'treadmill'
+}
+item {
+  id: 120
+  name: 'hot dog'
+}
+item {
+  id: 121
+  name: 'cosmetics'
+}
+item {
+  id: 122
+  name: 'tray'
+}
+item {
+  id: 123
+  name: 'bread'
+}
+item {
+  id: 124
+  name: 'frisbee'
+}
+item {
+  id: 125
+  name: 'soap'
+}
+item {
+  id: 126
+  name: 'tv'
+}
+item {
+  id: 127
+  name: 'doll'
+}
+item {
+  id: 128
+  name: 'snowboard'
+}
+item {
+  id: 129
+  name: 'backpack'
+}
+item {
+  id: 130
+  name: 'cell phone'
+}
+item {
+  id: 131
+  name: 'mouse'
+}
+item {
+  id: 132
+  name: 'pants'
+}
+item {
+  id: 133
+  name: 'bookcase'
+}
+item {
+  id: 134
+  name: 'air conditioner'
+}
+item {
+  id: 135
+  name: 'remote'
+}
+item {
+  id: 136
+  name: 'water dispenser'
+}
+item {
+  id: 137
+  name: 'toilet'
+}
+item {
+  id: 138
+  name: 'wheel chair'
+}
+item {
+  id: 139
+  name: 'pans'
+}
+item {
+  id: 140
+  name: 'showerhead'
+}
+item {
+  id: 141
+  name: 'envelope'
+}
+item {
+  id: 142
+  name: 'kettle'
+}
+item {
+  id: 143
+  name: 'map'
+}
+item {
+  id: 144
+  name: 'cuo'
+}
+item {
+  id: 145
+  name: 'tablecloth'
+}
+item {
+  id: 146
+  name: 'baseball glove'
+}
+item {
+  id: 147
+  name: 'ball'
+}
+item {
+  id: 148
+  name: 'truck'
+}
+item {
+  id: 149
+  name: 'tie'
+}
+item {
+  id: 150
+  name: 'bird'
+}
+item {
+  id: 151
+  name: 'document camera'
+}
+item {
+  id: 152
+  name: 'ruler'
+}
+item {
+  id: 153
+  name: 'music stand'
+}
+item {
+  id: 154
+  name: 'skateboard'
+}
+item {
+  id: 155
+  name: 'towl'
+}
+item {
+  id: 156
+  name: 'train'
+}
+item {
+  id: 157
+  name: 'umbrella'
+}
+item {
+  id: 158
+  name: 'broom'
+}
+item {
+  id: 159
+  name: 'cutting board'
+}
+item {
+  id: 160
+  name: 'kite'
+}
+item {
+  id: 161
+  name: 'watch'
+}
+item {
+  id: 162
+  name: 'flashlight'
+}
+item {
+  id: 163
+  name: 'slipper'
+}
+item {
+  id: 164
+  name: 'hat'
+}
+item {
+  id: 165
+  name: 'scissors'
+}
+item {
+  id: 166
+  name: 'bathtub'
+}
+item {
+  id: 167
+  name: 'towel'
+}
+item {
+  id: 168
+  name: 'faucet'
+}
+item {
+  id: 169
+  name: 'tumble dryer'
+}
+item {
+  id: 170
+  name: 'easel'
+}
+item {
+  id: 171
+  name: 'washing machine'
+}
+item {
+  id: 172
+  name: 'briefcase'
+}
+item {
+  id: 173
+  name: 'sewing maching'
+}
+item {
+  id: 174
+  name: 'banana'
+}
+item {
+  id: 175
+  name: 'ring'
+}
+item {
+  id: 176
+  name: 'hamburger'
+}
+item {
+  id: 177
+  name: 'toothpaste'
+}
+item {
+  id: 178
+  name: 'toothbrush'
+}
+item {
+  id: 179
+  name: 'bicycle'
+}
+item {
+  id: 180
+  name: 'pencil case'
+}
+item {
+  id: 181
+  name: 'salad'
+}
+item {
+  id: 182
+  name: 'bags'
+}
+item {
+  id: 183
+  name: 'pizza'
+}
+item {
+  id: 184
+  name: 'refrigerator'
+}
+item {
+  id: 185
+  name: 'horse'
+}
+item {
+  id: 186
+  name: 'christmas tree'
+}
+item {
+  id: 187
+  name: 'mirror'
+}
+item {
+  id: 188
+  name: 'chopsticks'
+}
+item {
+  id: 189
+  name: 'blender'
+}
+item {
+  id: 190
+  name: 'mop'
+}
+item {
+  id: 191
+  name: 'cow'
+}
+item {
+  id: 192
+  name: 'baseball bat'
+}
+item {
+  id: 193
+  name: 'cake'
+}
+item {
+  id: 194
+  name: 'palette'
+}
+item {
+  id: 195
+  name: 'goose'
+}
+item {
+  id: 196
+  name: 'luggagecase'
+}
+item {
+  id: 197
+  name: 'hanger'
+}
+item {
+  id: 198
+  name: 'dumbbell'
+}
